@@ -15,5 +15,5 @@ puts phrase
 end
 
 def all_phrases
-  
+  mario
 end
