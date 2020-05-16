@@ -16,3 +16,4 @@ end
 
 def all_phrases(phrasing)
   puts phrasing
+end
